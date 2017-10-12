@@ -1,3 +1,5 @@
+# Notice:  client-auth: need is enabled in this example
+
 This example shows how a normal client calls ssl server's API by rest-assured
 
 
